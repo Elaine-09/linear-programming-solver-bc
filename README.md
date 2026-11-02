@@ -146,11 +146,3 @@ Developed as a **group project for Linear Programming 381 (LPR381)** at **Belgiu
 ### Verification
 
 This upload package preserves the original source, project files, tests, samples and launcher. File integrity and local project references were checked during packaging. The .NET SDK is unavailable in the packaging environment, so no build, test-pass count or solver-result verification is claimed for this version.
-
----
-
-## 🌷 Portfolio Owner
-
-**Elaine Potgieter**  
-Bachelor of Computing Student | Data Science Specialisation  
-SQL • Power BI • Python • Business Analysis
